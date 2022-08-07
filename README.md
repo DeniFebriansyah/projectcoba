@@ -1,3 +1,8 @@
+Project ini merupakan ujicoba form masukkan yang didesign untuk menampung aspirasi masyarakat menggunakan CodeIgniter 3 dan Bootstrap dengan bantuan template by gentella
+project ini merupakan masih dalam bentuk prototype dan masih akan terus dikembangkan kedepannya
+
+
+
 # gentelella
 
 Gentelella Admin is a free to use Bootstrap admin template.
