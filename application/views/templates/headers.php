@@ -40,7 +40,7 @@
         <div class="col-md-3 left_col">
           <div class="left_col scroll-view">
             <div class="navbar nav_title" style="border: 0;">
-              <a href="<?= base_url();?>index" class="site_title"><i class="fa fa-user"></i> <span>Selamat Datang</span></a>
+              <a href="<?= base_url();?>" class="site_title"><i class="fa fa-user"></i> <span>Selamat Datang</span></a>
             </div>
             <!-- sidebar menu -->
             <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
